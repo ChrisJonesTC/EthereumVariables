@@ -1,0 +1,15 @@
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\bin\Debug\net6.0\CVariables.exe
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\bin\Debug\net6.0\CVariables.deps.json
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\bin\Debug\net6.0\CVariables.runtimeconfig.json
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\bin\Debug\net6.0\CVariables.dll
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\bin\Debug\net6.0\CVariables.pdb
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\CVariables.csproj.AssemblyReference.cache
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\CVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\CVariables.AssemblyInfoInputs.cache
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\CVariables.AssemblyInfo.cs
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\CVariables.csproj.CoreCompileInputs.cache
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\CVariables.dll
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\refint\CVariables.dll
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\CVariables.pdb
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\CVariables.genruntimeconfig.cache
+C:\Users\jusdaboiz\source\repos\CVariables\CVariables\obj\Debug\net6.0\ref\CVariables.dll
